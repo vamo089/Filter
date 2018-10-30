@@ -1,3 +1,4 @@
+Native,jquery,React.js
 # Filter with ability to store information
 Customizable filter has:
 # control buttons
